@@ -20,10 +20,12 @@ This project focuses on creating a clean, fast, and interactive trading dashboar
 - Mongoose models for structured database design
 
 🧩 Tech Stack
+```bash
 Frontend  : React.js, CSS, Axios
 Backend   : Node.js, Express.js
 Database  : MongoDB, Mongoose
 Tools     : Nodemon, Git, Postman
+```
 
 ## 📌 Notes
 
